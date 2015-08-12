@@ -7,3 +7,7 @@ nizhidaoma
 niquma
 
 DSADASDADS
+
+Git tracks changes.
+
+jsiodjaois
